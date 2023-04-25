@@ -1,0 +1,200 @@
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHoaDon.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormKhuyenMai.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhanVien.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormThe.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+D:\Ki 4\Winform\FinalProject\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormThongKe.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+D:\Ki 4\Winform\FinalProject\Project_Nhom22\Code\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.SuggestedBindingRedirects.cache
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\lequa\OneDrive\Desktop\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.SuggestedBindingRedirects.cache
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+E:\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormMainUser.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormHangHoaUser.resources
+D:\Kì 5\Hệ Quản Trị Cơ Sở Dữ Liệu\Project\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormLoaiHangUser.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.SuggestedBindingRedirects.cache
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormHangHoaUser.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormLoaiHangUser.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormMainUser.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+E:\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormHangHoaUser.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormLoaiHangUser.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormMainUser.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\PC\Documents\Zalo Received Files\AppQuanLiSieuThi_ADO(1)\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormHangHoaUser.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormLoaiHangUser.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormMainUser.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\PC\Documents\Zalo Received Files\Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe.config
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\bin\Debug\AppQuanLiSieuThi_ADO.pdb
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.AssemblyReference.cache
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormDangKyTaiKhoan.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangHoa.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormHangLoi.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLoaiHang.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormLogin.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormMain.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhaCungCap.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormNhapHang.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormHangHoaUser.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormLoaiHangUser.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormUser_Layer.FormMainUser.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.FormXuatHang.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.Properties.Resources.resources
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.GenerateResource.cache
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.csproj.CoreCompileInputs.cache
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.exe
+C:\Users\levan\Desktop\DoAnCuoiKy_Nhom9_DBMS\AppQuanLiSieuThi_ADO\AppQuanLiSieuThi_ADO\obj\Debug\AppQuanLiSieuThi_ADO.pdb

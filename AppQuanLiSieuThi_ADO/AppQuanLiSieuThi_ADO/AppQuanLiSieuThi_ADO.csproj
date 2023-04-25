@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DB148CCB-D69A-4414-AADA-64A9EA7AB220}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AppQuanLiSieuThi_ADO</RootNamespace>
+    <AssemblyName>AppQuanLiSieuThi_ADO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connection Layer\ConnectionDataBase.cs" />
+    <Compile Include="FormDangKyTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDangKyTaiKhoan.Designer.cs">
+      <DependentUpon>FormDangKyTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHangHoa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHangHoa.Designer.cs">
+      <DependentUpon>FormHangHoa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormHangLoi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormHangLoi.Designer.cs">
+      <DependentUpon>FormHangLoi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLoaiHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLoaiHang.Designer.cs">
+      <DependentUpon>FormLoaiHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhaCungCap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhaCungCap.Designer.cs">
+      <DependentUpon>FormNhaCungCap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormNhapHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormNhapHang.Designer.cs">
+      <DependentUpon>FormNhapHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser Layer\FormHangHoaUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser Layer\FormHangHoaUser.Designer.cs">
+      <DependentUpon>FormHangHoaUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser Layer\FormLoaiHangUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser Layer\FormLoaiHangUser.Designer.cs">
+      <DependentUpon>FormLoaiHangUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser Layer\FormMainUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser Layer\FormMainUser.Designer.cs">
+      <DependentUpon>FormMainUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormXuatHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormXuatHang.Designer.cs">
+      <DependentUpon>FormXuatHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perform Layer\ClassHangHoa.cs" />
+    <Compile Include="Perform Layer\ClassHangLoi.cs" />
+    <Compile Include="Perform Layer\ClassLoaiHang.cs" />
+    <Compile Include="Perform Layer\ClassNhaCungCap.cs" />
+    <Compile Include="Perform Layer\ClassNhapHang.cs" />
+    <Compile Include="Perform Layer\ClassLogin.cs" />
+    <Compile Include="Perform Layer\ClassTimKiemTheoYeuCau.cs" />
+    <Compile Include="Perform Layer\ClassXuatHang.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormDangKyTaiKhoan.resx">
+      <DependentUpon>FormDangKyTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHangHoa.resx">
+      <DependentUpon>FormHangHoa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormHangLoi.resx">
+      <DependentUpon>FormHangLoi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLoaiHang.resx">
+      <DependentUpon>FormLoaiHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhaCungCap.resx">
+      <DependentUpon>FormNhaCungCap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormNhapHang.resx">
+      <DependentUpon>FormNhapHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser Layer\FormHangHoaUser.resx">
+      <DependentUpon>FormHangHoaUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser Layer\FormLoaiHangUser.resx">
+      <DependentUpon>FormLoaiHangUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser Layer\FormMainUser.resx">
+      <DependentUpon>FormMainUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormXuatHang.resx">
+      <DependentUpon>FormXuatHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
